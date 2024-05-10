@@ -24,6 +24,6 @@ Para utilizar o banco de dados da perfumaria e aproveitar os benefícios dos tri
 
 ## Autor
 
-Este banco de dados da perfumaria foi desenvolvido por Kamila Cavalcante.
+Este banco de dados da perfumaria foi desenvolvido por Kamila Cavalcante - 2DM / Senai Suiço Brasileiro (Maio/2024)
 
 
